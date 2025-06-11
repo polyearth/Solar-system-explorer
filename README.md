@@ -182,7 +182,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Event**: The Stellar Gateway Hackathon 2025
 - **Category**: Educational Space Technology
-- **Team Size**: [Your team size]
 - **Development Time**: [Time spent]
 - **Primary Technologies**: React, TypeScript, Tailwind CSS
 - **Target Audience**: Students, educators, space enthusiasts of all ages
