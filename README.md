@@ -54,7 +54,7 @@ Solar System Explorer is an immersive, educational web application that brings t
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/solar-system-explorer.git
+   git clone https://github.com/polyearth/Solar-system-explorer.git
    cd solar-system-explorer
    ```
 
